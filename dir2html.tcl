@@ -1,4 +1,7 @@
 #!/usr/bin/tcl
+#
+#
+
 
 set dir "."
 set out1 [glob -path $dir /*]
